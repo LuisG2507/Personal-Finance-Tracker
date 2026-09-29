@@ -1,0 +1,101 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+
+# Import data from CSV
+df = pd.read_csv('transactions.csv')
+df["Date"] = pd.to_datetime(df["Date"])
+df["Month"] = df["Date"].dt.to_period("M")
+df["Month_str"] = df["Date"].dt.strftime("%b %Y")
+
+# Summary statistics
+income_df = df[df["Type"] == "Income"]
+expense_df = df[df["Type"] == "Expense"]
+
+total_income = income_df["Amount"].sum()
+total_expenses = expense_df["Amount"].sum()
+net_savings = total_income + total_expenses
+
+print("=" * 35)
+print("   PERSONAL FINANCE SUMMARY")
+print("=" * 35)
+print(f"Total Income:    ${total_income:,.2f}")
+print(f"Total Expenses:  ${abs(total_expenses):,.2f}")
+print(f"Net Savings:     ${net_savings:,.2f}")
+
+spend_cats = expense_df[~expense_df["Category"].isin(["Refunds", "Transfers"])]
+spending_by_cat = (
+    spend_cats.groupby("Category")["Amount"]
+    .sum().abs()
+    .sort_values(ascending=False))
+ 
+print("\n  Spending by Category:")
+for cat, amt in spending_by_cat.items():
+    print(f"    {cat:<20} ${amt:,.2f}")
+
+income_cats = income_df[income_df["Amount"] > 0]
+income_by_cat = (
+    income_cats.groupby("Category")["Amount"]
+    .sum().abs()
+    .sort_values(ascending=False))
+
+print("\n  Income by Category:")
+for cat, amt in income_by_cat.items():
+    print(f"    {cat:<20} ${amt:,.2f}")
+
+# Monthly Summary
+monthly_income = (
+    income_df.groupby("Month")["Amount"].sum()
+)
+monthly_expense = (
+    expense_df.groupby("Month")["Amount"].sum().abs()
+)
+months = sorted(set(monthly_income.index) | set(monthly_expense.index))
+month_labels = [str(m) for m in months]
+inc_vals  = [monthly_income.get(m, 0)  for m in months]
+exp_vals  = [monthly_expense.get(m, 0) for m in months]
+
+# Plots
+fig = plt.figure(figsize=(16, 10))
+fig.suptitle("Luis's Personal Finance Tracker\n(Oct 2025 – Sep 2026)",
+             fontsize=16, fontweight="bold", y=0.98)
+ 
+# Chart 1: Bar Chart
+ax1 = fig.add_subplot(2, 2, 1)
+colors = plt.cm.tab10.colors
+bars = ax1.barh(spending_by_cat.index[::-1], spending_by_cat.values[::-1], color=colors[:len(spending_by_cat)])
+ax1.set_title("Total Spending by Category", fontweight="bold")
+ax1.set_xlabel("Amount ($)")
+ax1.xaxis.set_major_formatter(mticker.StrMethodFormatter("${x:,.0f}"))
+for bar, val in zip(bars, spending_by_cat.values[::-1]):
+    ax1.text(bar.get_width() + 5, bar.get_y() + bar.get_height()/2,
+             f"${val:,.0f}", va="center", fontsize=8)
+ 
+# Chart 2: Pie chart
+ax2 = fig.add_subplot(2, 2, 2)
+top6 = spending_by_cat.head(6)
+other = spending_by_cat.iloc[6:].sum()
+if other > 0:
+    top6["Other"] = other
+ax2.pie(top6.values, labels=top6.index, autopct="%1.1f%%",
+        startangle=140, colors=colors[:len(top6)])
+ax2.set_title("Spending Distribution (Top Categories)", fontweight="bold")
+ 
+# Chart 3: Monthly income vs expenses
+ax3 = fig.add_subplot(2, 1, 2)
+x = range(len(months))
+width = 0.4
+ax3.bar([i - width/2 for i in x], inc_vals,  width, label="Income",   color="steelblue",  alpha=0.85)
+ax3.bar([i + width/2 for i in x], exp_vals,  width, label="Expenses", color="tomato",     alpha=0.85)
+ax3.set_xticks(list(x))
+ax3.set_xticklabels(month_labels, rotation=45, ha="right", fontsize=8)
+ax3.set_title("Monthly Income vs Expenses", fontweight="bold")
+ax3.set_ylabel("Amount ($)")
+ax3.yaxis.set_major_formatter(mticker.StrMethodFormatter("${x:,.0f}"))
+ax3.legend()
+ax3.grid(axis="y", linestyle="--", alpha=0.4)
+ 
+plt.tight_layout()
+plt.savefig("finance_chart.png", dpi=150, bbox_inches="tight")
+plt.show()
+print("\nChart saved as finance_chart.png")

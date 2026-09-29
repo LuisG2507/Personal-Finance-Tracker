@@ -1,0 +1,210 @@
+Date,Description,Category,Amount,Type
+2025-09-29,Kindle Unlimited,Subscriptions,-11.99,Expense
+2025-09-30,Spotify,Subscriptions,-5.99,Expense
+2025-10-03,Zelle from Family,Income,200.00,Income
+2025-10-03,Amazon Prime,Subscriptions,-1.09,Expense
+2025-10-03,Amazon Purchase,Shopping,-14.26,Expense
+2025-10-06,Apple Subscriptions,Subscriptions,-0.99,Expense
+2025-10-06,Amazon Purchase,Shopping,-7.67,Expense
+2025-10-06,CSC Laundry,Laundry,-5.25,Expense
+2025-10-08,CSC Laundry,Laundry,-5.25,Expense
+2025-10-10,Amazon Prime,Subscriptions,-8.22,Expense
+2025-10-20,McDonald's,Food,-11.59,Expense
+2025-10-20,Apple Cash Sent,Transfers,-5.00,Expense
+2025-10-20,CSC Laundry,Laundry,-5.25,Expense
+2025-10-20,CSC Laundry,Laundry,-5.25,Expense
+2025-10-27,CSC Laundry,Laundry,-5.25,Expense
+2025-10-30,Spotify,Subscriptions,-5.99,Expense
+2025-10-30,Xbox Game Pass,Gaming,-19.99,Expense
+2025-10-31,CSC Laundry,Laundry,-5.25,Expense
+2025-11-03,Zelle from Family,Income,200.00,Income
+2025-11-03,11th Hour Coffee,Food,-13.00,Expense
+2025-11-03,CSC Laundry,Laundry,-5.25,Expense
+2025-11-03,7-Eleven,Food,-12.05,Expense
+2025-11-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2025-11-06,UCSC Donation,Donations,-25.00,Expense
+2025-11-07,CSC Laundry,Laundry,-5.25,Expense
+2025-11-07,Apple Cash Sent,Transfers,-1.00,Expense
+2025-11-10,Amazon Prime,Subscriptions,-8.22,Expense
+2025-11-10,Steam Games,Gaming,-59.99,Expense
+2025-11-12,CSC Laundry,Laundry,-5.25,Expense
+2025-11-17,Amazon Prime Return,Refunds,8.22,Income
+2025-11-20,CSC Laundry,Laundry,-5.25,Expense
+2025-11-21,CSC Laundry,Laundry,-5.25,Expense
+2025-12-01,Spotify,Subscriptions,-5.99,Expense
+2025-12-01,CSC Laundry,Laundry,-5.25,Expense
+2025-12-01,Apple Subscriptions,Subscriptions,-1.98,Expense
+2025-12-02,Apple Cash Sent,Transfers,-20.00,Expense
+2025-12-05,CSC Laundry,Laundry,-5.25,Expense
+2025-12-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2025-12-09,Zelle from Family,Income,100.00,Income
+2025-12-12,UCSC Bookstore,Education,-11.21,Expense
+2025-12-15,Zelle from Friend,Income,5.00,Income
+2025-12-16,Steam Purchase,Gaming,-29.99,Expense
+2025-12-17,Steam Games,Gaming,-10.00,Expense
+2025-12-18,OpenAI,Subscriptions,-5.00,Expense
+2025-12-26,Ubisoft,Gaming,-4.99,Expense
+2025-12-29,Steam Purchase,Gaming,-39.99,Expense
+2025-12-30,Spotify,Subscriptions,-5.99,Expense
+2025-12-30,UCSC Refund,Income,1620.66,Income
+2026-01-02,Zelle from Family,Income,200.00,Income
+2026-01-02,Transfer to Checking,Transfers,-200.00,Expense
+2026-01-05,Steam Games,Gaming,-13.39,Expense
+2026-01-05,CSC Laundry,Laundry,-5.25,Expense
+2026-01-05,Amazon Prime,Subscriptions,-8.22,Expense
+2026-01-05,Amazon Purchase,Shopping,-10.87,Expense
+2026-01-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-01-07,Macmillan Learning,Education,-89.99,Expense
+2026-01-07,CSC Laundry,Laundry,-5.25,Expense
+2026-01-09,UCSC Bookstore,Education,-19.60,Expense
+2026-01-12,DoorDash,Food Delivery,-24.92,Expense
+2026-01-14,Robinhood,Investing,-19.00,Expense
+2026-01-14,Robinhood,Investing,-1.00,Expense
+2026-01-14,CSC Laundry,Laundry,-5.25,Expense
+2026-01-16,Kindle,Subscriptions,-9.99,Expense
+2026-01-20,DoorDash,Food Delivery,-27.92,Expense
+2026-01-20,CSC Laundry,Laundry,-5.25,Expense
+2026-01-26,DoorDash,Food Delivery,-24.76,Expense
+2026-01-28,CSC Laundry,Laundry,-5.25,Expense
+2026-01-30,Spotify,Subscriptions,-5.99,Expense
+2026-02-02,Zelle from Family,Income,200.00,Income
+2026-02-02,DoorDash,Food Delivery,-27.92,Expense
+2026-02-02,CSC Laundry,Laundry,-5.25,Expense
+2026-02-05,Apple Subscriptions,Subscriptions,-30.98,Expense
+2026-02-06,CSC Laundry,Laundry,-5.25,Expense
+2026-02-09,Five Guys,Food,-20.17,Expense
+2026-02-11,Underdog Payout,Income,98.72,Income
+2026-02-12,CSC Laundry,Laundry,-5.25,Expense
+2026-02-17,DoorDash,Food Delivery,-27.79,Expense
+2026-02-19,Pax Historia,Gaming,-8.00,Expense
+2026-02-20,Pax Historia,Gaming,-10.00,Expense
+2026-02-23,DoorDash,Food Delivery,-19.63,Expense
+2026-02-23,CSC Laundry,Laundry,-5.25,Expense
+2026-02-23,DoorDash,Food Delivery,-30.43,Expense
+2026-02-23,Savings Transfer In,Income,25.00,Income
+2026-03-02,Zelle from Family,Income,200.00,Income
+2026-03-02,Transfer from Checking,Income,140.00,Income
+2026-03-02,Spotify,Subscriptions,-6.99,Expense
+2026-03-02,CSC Laundry,Laundry,-5.25,Expense
+2026-03-02,Pax Historia,Gaming,-20.00,Expense
+2026-03-03,DoorDash,Food Delivery,-33.13,Expense
+2026-03-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-03-05,CSC Laundry,Laundry,-5.25,Expense
+2026-03-09,McDonald's,Food,-15.42,Expense
+2026-03-09,CSC Laundry,Laundry,-5.25,Expense
+2026-03-10,DoorDash,Food Delivery,-36.12,Expense
+2026-03-13,Steam Games,Gaming,-9.99,Expense
+2026-03-16,Savings Transfer In,Income,30.00,Income
+2026-03-16,DoorDash,Food Delivery,-27.82,Expense
+2026-03-16,Amtrak,Transport,-65.00,Expense
+2026-03-16,CSC Laundry,Laundry,-5.25,Expense
+2026-03-16,Roblox,Gaming,-4.99,Expense
+2026-03-19,Transfer from Family,Income,60.95,Income
+2026-03-20,Amtrak,Transport,-53.00,Expense
+2026-03-20,McDonald's,Food,-10.90,Expense
+2026-03-23,Steam Return,Refunds,6.24,Income
+2026-03-23,Amtrak Return,Refunds,48.75,Income
+2026-03-23,Apple Cash Sent,Transfers,-60.00,Expense
+2026-03-23,Steam Purchase,Gaming,-6.24,Expense
+2026-03-23,McDonald's,Food,-10.53,Expense
+2026-03-24,DoorDash Pass,Food Delivery,-9.99,Expense
+2026-03-26,UC Santa Cruz Refund,Income,1619.67,Income
+2026-03-26,McDonald's,Food,-17.11,Expense
+2026-03-30,Spotify,Subscriptions,-6.99,Expense
+2026-03-30,CSC Laundry,Laundry,-5.25,Expense
+2026-03-30,CVS Pharmacy,Health,-13.39,Expense
+2026-03-31,DoorDash,Food Delivery,-22.75,Expense
+2026-04-01,Edfinity,Education,-40.00,Expense
+2026-04-02,UCSC Bookstore,Education,-16.43,Expense
+2026-04-03,Zelle from Family,Income,200.00,Income
+2026-04-03,Robinhood,Investing,-75.00,Expense
+2026-04-06,Harvard Business,Education,-24.75,Expense
+2026-04-06,CSC Laundry,Laundry,-5.25,Expense
+2026-04-06,G2A,Gaming,-2.73,Expense
+2026-04-06,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-04-06,McDonald's,Food,-16.52,Expense
+2026-04-06,Safeway,Food,-4.99,Expense
+2026-04-06,CVS Pharmacy,Health,-29.79,Expense
+2026-04-13,DoorDash,Food Delivery,-27.80,Expense
+2026-04-13,CSC Laundry,Laundry,-5.25,Expense
+2026-04-14,Steam Games,Gaming,-9.99,Expense
+2026-04-20,Pearsonplus,Education,-9.99,Expense
+2026-04-20,DoorDash,Food Delivery,-30.13,Expense
+2026-04-20,CSC Laundry,Laundry,-5.25,Expense
+2026-04-22,CVS Pharmacy,Health,-15.98,Expense
+2026-04-22,CSC Laundry,Laundry,-5.25,Expense
+2026-04-30,Spotify,Subscriptions,-6.99,Expense
+2026-05-04,Zelle from Family,Income,200.00,Income
+2026-05-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-05-07,CSC Laundry,Laundry,-5.25,Expense
+2026-05-08,Robinhood,Investing,-255.88,Expense
+2026-05-11,CSC Laundry,Laundry,-5.25,Expense
+2026-05-12,Robinhood,Investing,-74.38,Expense
+2026-05-18,CSC Laundry,Laundry,-5.25,Expense
+2026-05-18,Uber Eats,Food Delivery,-19.63,Expense
+2026-05-19,LACCD Tuition,Education,-297.00,Expense
+2026-05-19,Pearsonplus,Education,-9.99,Expense
+2026-05-26,CSC Laundry,Laundry,-5.25,Expense
+2026-05-26,Uber Eats,Food Delivery,-39.30,Expense
+2026-05-29,Kindle Unlimited,Subscriptions,-4.99,Expense
+2026-06-01,Zelle from Family,Income,200.00,Income
+2026-06-01,Robinhood,Investing,-158.00,Expense
+2026-06-01,Uber Eats,Food Delivery,-23.64,Expense
+2026-06-01,CSC Laundry,Laundry,-5.25,Expense
+2026-06-01,Spotify,Subscriptions,-6.99,Expense
+2026-06-02,Cash Back,Income,1.00,Income
+2026-06-04,Six Flags,Entertainment,-28.00,Expense
+2026-06-05,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-06-08,Uber Eats,Food Delivery,-26.37,Expense
+2026-06-08,CSC Laundry,Laundry,-5.25,Expense
+2026-06-12,Transfer from Family,Income,24.58,Income
+2026-06-15,Uber Eats,Food Delivery,-27.00,Expense
+2026-06-16,McDonald's,Food,-19.76,Expense
+2026-06-18,Transfer from Family,Income,6.75,Income
+2026-06-22,LACCD Refund,Refunds,276.00,Income
+2026-06-22,Pearsonplus,Education,-9.99,Expense
+2026-06-22,Steam Purchase,Gaming,-4.99,Expense
+2026-06-22,Zelle to Friend,Transfers,-6.00,Expense
+2026-06-22,McDonald's,Food,-13.17,Expense
+2026-06-23,McDonald's,Food,-6.58,Expense
+2026-06-29,Steam Purchase,Gaming,-14.99,Expense
+2026-06-29,McDonald's,Food,-13.05,Expense
+2026-06-30,Spotify,Subscriptions,-6.99,Expense
+2026-07-03,Zelle from Family,Income,200.00,Income
+2026-07-06,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-07-06,Six Flags,Entertainment,-8.00,Expense
+2026-07-13,Patreon,Subscriptions,-15.00,Expense
+2026-07-14,Five Below,Shopping,-11.05,Expense
+2026-07-20,Pearsonplus,Education,-9.99,Expense
+2026-07-20,Microsoft Xbox,Gaming,-9.99,Expense
+2026-07-20,Sporting Goods,Shopping,-33.14,Expense
+2026-07-20,Roblox,Gaming,-4.99,Expense
+2026-07-21,Kindle,Subscriptions,-0.83,Expense
+2026-07-30,Spotify,Subscriptions,-6.99,Expense
+2026-08-03,Zelle from Family,Income,200.00,Income
+2026-08-03,Microsoft Xbox,Gaming,-4.98,Expense
+2026-08-05,Six Flags,Entertainment,-8.00,Expense
+2026-08-06,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-08-10,McDonald's,Food,-6.52,Expense
+2026-08-11,Zelle to Friend,Transfers,-8.50,Expense
+2026-08-18,Xbox Game Pass,Gaming,-9.99,Expense
+2026-08-19,Microsoft Xbox,Gaming,-9.99,Expense
+2026-08-19,Pearsonplus,Education,-9.99,Expense
+2026-08-27,Uber Eats,Food Delivery,-10.01,Expense
+2026-08-31,Spotify,Subscriptions,-12.99,Expense
+2026-09-01,Uber Eats,Food Delivery,-26.47,Expense
+2026-09-04,Zelle from Family,Income,200.00,Income
+2026-09-08,Apple Subscriptions,Subscriptions,-0.99,Expense
+2026-09-08,Six Flags,Entertainment,-8.00,Expense
+2026-09-08,Steam Games,Gaming,-14.99,Expense
+2026-09-10,McDonald's,Food,-6.58,Expense
+2026-09-17,Steam Return,Refunds,14.99,Income
+2026-09-21,Pearsonplus,Education,-9.99,Expense
+2026-09-21,Raising Cane's,Food,-15.02,Expense
+2026-09-21,Amtrak,Transport,-99.00,Expense
+2026-09-21,UCSC Meal Plan,Education,-1452.00,Expense
+2026-09-21,UCSC Fees,Education,-863.12,Expense
+2026-09-22,TikTok Shop,Shopping,-16.43,Expense
+2026-09-24,PayRange Laundry,Laundry,-25.00,Expense
+2026-09-25,Zelle from Family,Income,250.00,Income
+2026-09-25,Savings Transfer In,Income,100.00,Income
