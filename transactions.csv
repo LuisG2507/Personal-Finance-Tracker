@@ -1,19 +1,376 @@
 Date,Description,Category,Amount,Type
-3/19/2025,Gift from friend,Gift,25,Income
-3/20/2025,Spotify,Subscription,-10,Expense
-3/27/2025,Restaurant,Food,-30,Expense
-4/13/2025,Gas,Gas,-55,Expense
-4/20/2025,Spotify,Subscription,-10,Expense
-5/15/2025,Work,Paycheck,245,Income
-5/16/2025,Gift from mom,Gift,25,Income
-7/1/2025,Bill,Bill,-200,Expense
-7/19/2025,Work,Paycheck,400,Income
-8/20/2025,Spotify,Subscription,-10,Expense
-9/30/2025,Restaurant,Food,-60,Expense
-10/2/2025,Work,Paycheck,300,Income
-10/12/2025,Refund,Refund,5,Income
-10/26/2025,Gift to friend,Store,-10,Expense
-11/17/2025,Work,Paycheck,140,Income
-11/20/2025,Spotify,Subscription,-10,Expense
-12/24/2025,Gift from family,Gift,200,Income
-12/31/2025,Restaurant,Food,-70,Expense
+10/1/2025,Taco Truck,Dining Out,-35.32,Expense
+10/1/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+10/1/2025,Monthly Rent,Rent,-950,Expense
+10/2/2025,Grocery Store,Groceries,-45.21,Expense
+10/2/2025,Transfer to Savings,Transfers,-150,Expense
+10/3/2025,Streaming Service,Subscriptions,-15.99,Expense
+10/5/2025,Electric & Water Bill,Utilities,-64.8,Expense
+10/7/2025,Cafe Brunch,Dining Out,-33.3,Expense
+10/7/2025,Textbooks & Course Materials,Education,-159.81,Expense
+10/7/2025,Music Subscription,Subscriptions,-10.99,Expense
+10/8/2025,Bowling Night,Entertainment,-74.1,Expense
+10/8/2025,Farmers Market,Groceries,-84.36,Expense
+10/8/2025,Internet Service,Utilities,-60,Expense
+10/11/2025,Pizza Place,Dining Out,-12.53,Expense
+10/11/2025,Freelance Project Payment,Freelance,250,Income
+10/12/2025,Burger Joint,Dining Out,-17.11,Expense
+10/12/2025,Phone Plan,Utilities,-45,Expense
+10/13/2025,Coffee Shop,Dining Out,-21.08,Expense
+10/13/2025,Gas Station,Transportation,-35.74,Expense
+10/15/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+10/18/2025,Ramen Restaurant,Dining Out,-15.26,Expense
+10/18/2025,Grocery Store,Groceries,-83.47,Expense
+10/19/2025,Pizza Place,Dining Out,-40,Expense
+10/20/2025,Bowling Night,Entertainment,-49.22,Expense
+10/20/2025,Cloud Storage,Subscriptions,-2.99,Expense
+10/23/2025,Movie Tickets,Entertainment,-16.8,Expense
+10/24/2025,Grocery Store,Groceries,-90.11,Expense
+10/24/2025,Rideshare,Transportation,-35.06,Expense
+10/25/2025,Pizza Place,Dining Out,-10.29,Expense
+10/27/2025,Dental Copay,Health,-27.2,Expense
+10/28/2025,Online Order,Shopping,-47.27,Expense
+10/31/2025,Savings Account Interest,Interest,6.47,Income
+11/1/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+11/1/2025,Monthly Rent,Rent,-950,Expense
+11/2/2025,Pizza Place,Dining Out,-22.85,Expense
+11/2/2025,Movie Tickets,Entertainment,-23.32,Expense
+11/2/2025,Transfer to Savings,Transfers,-200,Expense
+11/3/2025,Taco Truck,Dining Out,-44.35,Expense
+11/3/2025,Streaming Service,Subscriptions,-15.99,Expense
+11/5/2025,Video Game Purchase,Entertainment,-19.55,Expense
+11/5/2025,Electric & Water Bill,Utilities,-92.47,Expense
+11/7/2025,Music Subscription,Subscriptions,-10.99,Expense
+11/8/2025,Transit Pass Reload,Transportation,-36.14,Expense
+11/8/2025,Internet Service,Utilities,-60,Expense
+11/9/2025,Transit Pass Reload,Transportation,-37.14,Expense
+11/12/2025,Phone Plan,Utilities,-45,Expense
+11/13/2025,Bowling Night,Entertainment,-27.38,Expense
+11/13/2025,Supermarket,Groceries,-114.19,Expense
+11/13/2025,Home Goods Store,Shopping,-120.49,Expense
+11/15/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+11/15/2025,Electronics Store,Shopping,-185.03,Expense
+11/18/2025,Dental Copay,Health,-72.64,Expense
+11/19/2025,Cafe Brunch,Dining Out,-19.22,Expense
+11/20/2025,Farmers Market,Groceries,-51.18,Expense
+11/20/2025,Returned Item Refund,Refunds,27.25,Expense
+11/20/2025,Cloud Storage,Subscriptions,-2.99,Expense
+11/21/2025,Ramen Restaurant,Dining Out,-22.62,Expense
+11/21/2025,Ramen Restaurant,Dining Out,-12,Expense
+11/21/2025,Farmers Market,Groceries,-80.89,Expense
+11/24/2025,Grocery Store,Groceries,-50.58,Expense
+11/26/2025,Home Goods Store,Shopping,-120.58,Expense
+11/27/2025,Coffee Shop,Dining Out,-15.62,Expense
+11/28/2025,Online Order,Shopping,-135.01,Expense
+11/30/2025,Savings Account Interest,Interest,4.57,Income
+12/1/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+12/1/2025,Monthly Rent,Rent,-950,Expense
+12/1/2025,Online Order,Shopping,-139.75,Expense
+12/2/2025,Clothing Store,Shopping,-29.59,Expense
+12/2/2025,Electronics Store,Shopping,-30.19,Expense
+12/2/2025,Transfer to Savings,Transfers,-150,Expense
+12/3/2025,Cafe Brunch,Dining Out,-26.41,Expense
+12/3/2025,Burger Joint,Dining Out,-38.17,Expense
+12/3/2025,Streaming Service,Subscriptions,-15.99,Expense
+12/4/2025,Farmers Market,Groceries,-60.98,Expense
+12/5/2025,Cafe Brunch,Dining Out,-25.96,Expense
+12/5/2025,Supermarket,Groceries,-96.71,Expense
+12/5/2025,Electric & Water Bill,Utilities,-90.03,Expense
+12/7/2025,Clothing Store,Shopping,-142.42,Expense
+12/7/2025,Music Subscription,Subscriptions,-10.99,Expense
+12/8/2025,Burger Joint,Dining Out,-45.77,Expense
+12/8/2025,Movie Tickets,Entertainment,-34.62,Expense
+12/8/2025,Electronics Store,Shopping,-133.06,Expense
+12/8/2025,Internet Service,Utilities,-60,Expense
+12/11/2025,Ramen Restaurant,Dining Out,-6.82,Expense
+12/12/2025,Pizza Place,Dining Out,-16.06,Expense
+12/12/2025,Phone Plan,Utilities,-45,Expense
+12/15/2025,Paycheck - Part-Time Job,Paycheck,1450,Income
+12/17/2025,Video Game Purchase,Entertainment,-21.38,Expense
+12/17/2025,Grocery Store,Groceries,-77.09,Expense
+12/18/2025,Taco Truck,Dining Out,-17.13,Expense
+12/18/2025,Farmers Market,Groceries,-108.72,Expense
+12/18/2025,Clothing Store,Shopping,-119.21,Expense
+12/18/2025,Transit Pass Reload,Transportation,-41.66,Expense
+12/19/2025,Flight Booking,Travel,-309.81,Expense
+12/20/2025,Cloud Storage,Subscriptions,-2.99,Expense
+12/21/2025,Bowling Night,Entertainment,-40.72,Expense
+12/21/2025,Freelance Project Payment,Freelance,320,Income
+12/21/2025,Farmers Market,Groceries,-84.89,Expense
+12/23/2025,Rideshare,Transportation,-29.16,Expense
+12/24/2025,Birthday / Holiday Gift,Gift,100,Income
+12/28/2025,Burger Joint,Dining Out,-23.77,Expense
+12/28/2025,Hotel / Lodging,Travel,-335.72,Expense
+12/31/2025,Savings Account Interest,Interest,7.32,Income
+1/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+1/1/2026,Monthly Rent,Rent,-950,Expense
+1/2/2026,Textbooks & Course Materials,Education,-129.53,Expense
+1/2/2026,Concert Ticket,Entertainment,-37.12,Expense
+1/2/2026,Pharmacy,Health,-71.1,Expense
+1/2/2026,Transfer to Savings,Transfers,-200,Expense
+1/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+1/5/2026,Scholarship Disbursement,Scholarship,1200,Income
+1/5/2026,Electric & Water Bill,Utilities,-58.88,Expense
+1/6/2026,Pizza Place,Dining Out,-25.43,Expense
+1/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+1/8/2026,Internet Service,Utilities,-60,Expense
+1/10/2026,Home Goods Store,Shopping,-71.64,Expense
+1/12/2026,Supermarket,Groceries,-69.65,Expense
+1/12/2026,Phone Plan,Utilities,-45,Expense
+1/13/2026,Bowling Night,Entertainment,-70.52,Expense
+1/13/2026,Farmers Market,Groceries,-64.13,Expense
+1/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+1/16/2026,Rideshare,Transportation,-21.19,Expense
+1/18/2026,Ramen Restaurant,Dining Out,-11.89,Expense
+1/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+1/21/2026,Burger Joint,Dining Out,-41.11,Expense
+1/21/2026,Farmers Market,Groceries,-45.58,Expense
+1/24/2026,Home Goods Store,Shopping,-29.92,Expense
+1/25/2026,Gas Station,Transportation,-19.15,Expense
+1/28/2026,Coffee Shop,Dining Out,-24.61,Expense
+1/28/2026,Burger Joint,Dining Out,-10.11,Expense
+1/28/2026,Farmers Market,Groceries,-42.17,Expense
+1/28/2026,Grocery Store,Groceries,-57.15,Expense
+1/31/2026,Savings Account Interest,Interest,4.26,Income
+2/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+2/1/2026,Monthly Rent,Rent,-950,Expense
+2/2/2026,Transfer to Savings,Transfers,-150,Expense
+2/3/2026,Farmers Market,Groceries,-43.23,Expense
+2/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+2/5/2026,Electric & Water Bill,Utilities,-76.25,Expense
+2/7/2026,Bowling Night,Entertainment,-22.08,Expense
+2/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+2/8/2026,Internet Service,Utilities,-60,Expense
+2/9/2026,Taco Truck,Dining Out,-34.13,Expense
+2/10/2026,Clothing Store,Shopping,-51.74,Expense
+2/11/2026,Taco Truck,Dining Out,-17.16,Expense
+2/11/2026,Gas Station,Transportation,-12.4,Expense
+2/12/2026,Movie Tickets,Entertainment,-67.64,Expense
+2/12/2026,Phone Plan,Utilities,-45,Expense
+2/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+2/17/2026,Grocery Store,Groceries,-103.55,Expense
+2/18/2026,Electronics Store,Shopping,-65.1,Expense
+2/19/2026,Burger Joint,Dining Out,-27.96,Expense
+2/19/2026,Movie Tickets,Entertainment,-18.47,Expense
+2/19/2026,Grocery Store,Groceries,-82.58,Expense
+2/20/2026,Coffee Shop,Dining Out,-23.61,Expense
+2/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+2/22/2026,Transit Pass Reload,Transportation,-24.9,Expense
+2/23/2026,Freelance Project Payment,Freelance,675,Income
+2/26/2026,Returned Item Refund,Refunds,20.51,Expense
+2/28/2026,Grocery Store,Groceries,-69.09,Expense
+2/28/2026,Savings Account Interest,Interest,7.18,Income
+3/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+3/1/2026,Monthly Rent,Rent,-950,Expense
+3/2/2026,Bowling Night,Entertainment,-36.24,Expense
+3/2/2026,Transfer to Savings,Transfers,-200,Expense
+3/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+3/4/2026,Farmers Market,Groceries,-80.6,Expense
+3/4/2026,Gas Station,Transportation,-52.64,Expense
+3/5/2026,Supermarket,Groceries,-46.89,Expense
+3/5/2026,Electric & Water Bill,Utilities,-66.98,Expense
+3/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+3/8/2026,Internet Service,Utilities,-60,Expense
+3/9/2026,Taco Truck,Dining Out,-37.13,Expense
+3/9/2026,Supermarket,Groceries,-84.57,Expense
+3/10/2026,Online Course Subscription,Education,-49,Expense
+3/11/2026,Taco Truck,Dining Out,-32.76,Expense
+3/12/2026,Urgent Care Copay,Health,-88.04,Expense
+3/12/2026,Clothing Store,Shopping,-70.52,Expense
+3/12/2026,Phone Plan,Utilities,-45,Expense
+3/14/2026,Pizza Place,Dining Out,-7.85,Expense
+3/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+3/17/2026,Ramen Restaurant,Dining Out,-16.55,Expense
+3/18/2026,Cafe Brunch,Dining Out,-23.96,Expense
+3/18/2026,Weekend Road Trip,Travel,-142.46,Expense
+3/19/2026,Concert Ticket,Entertainment,-40.22,Expense
+3/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+3/23/2026,Supermarket,Groceries,-53.68,Expense
+3/23/2026,Gas Station,Transportation,-35.46,Expense
+3/28/2026,Coffee Shop,Dining Out,-9.88,Expense
+3/31/2026,Savings Account Interest,Interest,6.77,Income
+4/1/2026,Grocery Store,Groceries,-94.72,Expense
+4/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+4/1/2026,Monthly Rent,Rent,-950,Expense
+4/2/2026,Transfer to Savings,Transfers,-150,Expense
+4/3/2026,Electronics Store,Shopping,-65.98,Expense
+4/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+4/4/2026,Supermarket,Groceries,-105.16,Expense
+4/4/2026,Dental Copay,Health,-53.03,Expense
+4/5/2026,Electric & Water Bill,Utilities,-87.43,Expense
+4/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+4/8/2026,Taco Truck,Dining Out,-40.3,Expense
+4/8/2026,Internet Service,Utilities,-60,Expense
+4/9/2026,Coffee Shop,Dining Out,-46.61,Expense
+4/9/2026,Pizza Place,Dining Out,-32.94,Expense
+4/9/2026,Grocery Store,Groceries,-98.63,Expense
+4/9/2026,Gas Station,Transportation,-36.97,Expense
+4/9/2026,Gas Station,Transportation,-16.66,Expense
+4/11/2026,Supermarket,Groceries,-99.77,Expense
+4/11/2026,Gas Station,Transportation,-16.96,Expense
+4/12/2026,Phone Plan,Utilities,-45,Expense
+4/13/2026,Cafe Brunch,Dining Out,-47.21,Expense
+4/14/2026,Movie Tickets,Entertainment,-37.5,Expense
+4/14/2026,Online Order,Shopping,-58.03,Expense
+4/14/2026,Rideshare,Transportation,-43.33,Expense
+4/15/2026,Pizza Place,Dining Out,-18.82,Expense
+4/15/2026,Freelance Project Payment,Freelance,320,Income
+4/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+4/19/2026,Concert Ticket,Entertainment,-29.54,Expense
+4/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+4/22/2026,Taco Truck,Dining Out,-22.74,Expense
+4/26/2026,Taco Truck,Dining Out,-15.36,Expense
+4/26/2026,Clothing Store,Shopping,-46.05,Expense
+4/28/2026,Farmers Market,Groceries,-100.43,Expense
+4/30/2026,Savings Account Interest,Interest,7.4,Income
+5/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+5/1/2026,Monthly Rent,Rent,-950,Expense
+5/2/2026,Transfer to Savings,Transfers,-200,Expense
+5/2/2026,Gas Station,Transportation,-54.31,Expense
+5/3/2026,Pizza Place,Dining Out,-27.65,Expense
+5/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+5/5/2026,Electric & Water Bill,Utilities,-66.83,Expense
+5/6/2026,Farmers Market,Groceries,-81.82,Expense
+5/7/2026,Burger Joint,Dining Out,-25.87,Expense
+5/7/2026,Supermarket,Groceries,-89.2,Expense
+5/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+5/8/2026,Gas Station,Transportation,-18.34,Expense
+5/8/2026,Internet Service,Utilities,-60,Expense
+5/10/2026,Taco Truck,Dining Out,-24.06,Expense
+5/12/2026,Phone Plan,Utilities,-45,Expense
+5/13/2026,Video Game Purchase,Entertainment,-38.38,Expense
+5/13/2026,Farmers Market,Groceries,-95.61,Expense
+5/13/2026,Farmers Market,Groceries,-102.2,Expense
+5/13/2026,Returned Item Refund,Refunds,70.6,Expense
+5/15/2026,Ramen Restaurant,Dining Out,-24.57,Expense
+5/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+5/19/2026,Burger Joint,Dining Out,-33.5,Expense
+5/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+5/20/2026,Rideshare,Transportation,-16.02,Expense
+5/21/2026,Concert Ticket,Entertainment,-57.82,Expense
+5/21/2026,Online Order,Shopping,-86.73,Expense
+5/23/2026,Birthday / Holiday Gift,Gift,150,Income
+5/25/2026,Gas Station,Transportation,-40.93,Expense
+5/26/2026,Cafe Brunch,Dining Out,-13.13,Expense
+5/28/2026,Movie Tickets,Entertainment,-41.78,Expense
+5/31/2026,Savings Account Interest,Interest,5.11,Income
+6/1/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+6/1/2026,Monthly Rent,Rent,-950,Expense
+6/2/2026,Farmers Market,Groceries,-57.19,Expense
+6/2/2026,Transfer to Savings,Transfers,-150,Expense
+6/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+6/5/2026,Gas Station,Transportation,-21.94,Expense
+6/5/2026,Electric & Water Bill,Utilities,-82.84,Expense
+6/6/2026,Cafe Brunch,Dining Out,-42.18,Expense
+6/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+6/8/2026,Pizza Place,Dining Out,-24.47,Expense
+6/8/2026,Internet Service,Utilities,-60,Expense
+6/11/2026,Pizza Place,Dining Out,-43.51,Expense
+6/12/2026,Phone Plan,Utilities,-45,Expense
+6/14/2026,Burger Joint,Dining Out,-24.73,Expense
+6/14/2026,Video Game Purchase,Entertainment,-34.18,Expense
+6/14/2026,Online Order,Shopping,-33.93,Expense
+6/14/2026,Home Goods Store,Shopping,-87.67,Expense
+6/15/2026,Pizza Place,Dining Out,-37.57,Expense
+6/15/2026,Freelance Project Payment,Freelance,320,Income
+6/15/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+6/18/2026,Farmers Market,Groceries,-62.43,Expense
+6/19/2026,Flight Booking,Travel,-292.27,Expense
+6/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+6/21/2026,Hotel / Lodging,Travel,-366.83,Expense
+6/23/2026,Pizza Place,Dining Out,-15.85,Expense
+6/23/2026,Pharmacy,Health,-79.25,Expense
+6/23/2026,Gas Station,Transportation,-42.38,Expense
+6/25/2026,Burger Joint,Dining Out,-26.35,Expense
+6/25/2026,Supermarket,Groceries,-85.17,Expense
+6/26/2026,Supermarket,Groceries,-89.4,Expense
+6/27/2026,Cafe Brunch,Dining Out,-17.65,Expense
+6/28/2026,Grocery Store,Groceries,-73.15,Expense
+6/30/2026,Savings Account Interest,Interest,6.72,Income
+7/1/2026,Coffee Shop,Dining Out,-33,Expense
+7/1/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+7/1/2026,Monthly Rent,Rent,-950,Expense
+7/2/2026,Transfer to Savings,Transfers,-200,Expense
+7/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+7/5/2026,Ramen Restaurant,Dining Out,-13.63,Expense
+7/5/2026,Electric & Water Bill,Utilities,-70.6,Expense
+7/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+7/8/2026,Online Order,Shopping,-78.15,Expense
+7/8/2026,Internet Service,Utilities,-60,Expense
+7/9/2026,Movie Tickets,Entertainment,-42.69,Expense
+7/11/2026,Rideshare,Transportation,-44.73,Expense
+7/12/2026,Phone Plan,Utilities,-45,Expense
+7/13/2026,Burger Joint,Dining Out,-29.7,Expense
+7/13/2026,Rideshare,Transportation,-21.1,Expense
+7/13/2026,Rideshare,Transportation,-44.34,Expense
+7/15/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+7/16/2026,Grocery Store,Groceries,-59.02,Expense
+7/16/2026,Grocery Store,Groceries,-67.94,Expense
+7/18/2026,Farmers Market,Groceries,-94.57,Expense
+7/20/2026,Burger Joint,Dining Out,-7.13,Expense
+7/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+7/21/2026,Online Order,Shopping,-76.08,Expense
+7/22/2026,Farmers Market,Groceries,-99.46,Expense
+7/24/2026,Movie Tickets,Entertainment,-74.99,Expense
+7/26/2026,Farmers Market,Groceries,-107.13,Expense
+7/27/2026,Ramen Restaurant,Dining Out,-44.62,Expense
+7/31/2026,Savings Account Interest,Interest,4.69,Income
+8/1/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+8/1/2026,Monthly Rent,Rent,-950,Expense
+8/2/2026,Transfer to Savings,Transfers,-150,Expense
+8/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+8/3/2026,Transit Pass Reload,Transportation,-41.7,Expense
+8/4/2026,Burger Joint,Dining Out,-7.08,Expense
+8/4/2026,Farmers Market,Groceries,-110.98,Expense
+8/5/2026,Scholarship Disbursement,Scholarship,1200,Income
+8/5/2026,Electric & Water Bill,Utilities,-55.82,Expense
+8/7/2026,Textbooks & Course Materials,Education,-240.76,Expense
+8/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+8/8/2026,Grocery Store,Groceries,-74.46,Expense
+8/8/2026,Internet Service,Utilities,-60,Expense
+8/10/2026,Burger Joint,Dining Out,-34.45,Expense
+8/12/2026,Grocery Store,Groceries,-84.65,Expense
+8/12/2026,Phone Plan,Utilities,-45,Expense
+8/13/2026,Ramen Restaurant,Dining Out,-45.54,Expense
+8/15/2026,Farmers Market,Groceries,-57.73,Expense
+8/15/2026,Paycheck - Part-Time Job,Paycheck,1850,Income
+8/16/2026,Pharmacy,Health,-47.51,Expense
+8/19/2026,Movie Tickets,Entertainment,-35.18,Expense
+8/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+8/21/2026,Electronics Store,Shopping,-18.97,Expense
+8/21/2026,Gas Station,Transportation,-16.38,Expense
+8/22/2026,Electronics Store,Shopping,-23.31,Expense
+8/24/2026,Returned Item Refund,Refunds,65.98,Expense
+8/25/2026,Taco Truck,Dining Out,-46.52,Expense
+8/28/2026,Movie Tickets,Entertainment,-62.57,Expense
+8/31/2026,Savings Account Interest,Interest,4.3,Income
+9/1/2026,Ramen Restaurant,Dining Out,-41.74,Expense
+9/1/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+9/1/2026,Monthly Rent,Rent,-950,Expense
+9/2/2026,Transfer to Savings,Transfers,-200,Expense
+9/3/2026,Streaming Service,Subscriptions,-15.99,Expense
+9/5/2026,Electric & Water Bill,Utilities,-93.62,Expense
+9/6/2026,Ramen Restaurant,Dining Out,-14.91,Expense
+9/7/2026,Coffee Shop,Dining Out,-16.14,Expense
+9/7/2026,Music Subscription,Subscriptions,-10.99,Expense
+9/8/2026,Grocery Store,Groceries,-59.48,Expense
+9/8/2026,Internet Service,Utilities,-60,Expense
+9/10/2026,Concert Ticket,Entertainment,-38.67,Expense
+9/10/2026,Electronics Store,Shopping,-54.44,Expense
+9/12/2026,Phone Plan,Utilities,-45,Expense
+9/14/2026,Ramen Restaurant,Dining Out,-29.32,Expense
+9/14/2026,Dental Copay,Health,-41.39,Expense
+9/15/2026,Supermarket,Groceries,-101.58,Expense
+9/15/2026,Grocery Store,Groceries,-95.79,Expense
+9/15/2026,Paycheck - Part-Time Job,Paycheck,1450,Income
+9/16/2026,Rideshare,Transportation,-46.1,Expense
+9/18/2026,Coffee Shop,Dining Out,-27.7,Expense
+9/19/2026,Supermarket,Groceries,-62.82,Expense
+9/20/2026,Cafe Brunch,Dining Out,-21.92,Expense
+9/20/2026,Cafe Brunch,Dining Out,-42.96,Expense
+9/20/2026,Farmers Market,Groceries,-97.65,Expense
+9/20/2026,Cloud Storage,Subscriptions,-2.99,Expense
+9/21/2026,Freelance Project Payment,Freelance,320,Income
+9/23/2026,Rideshare,Transportation,-39.77,Expense
+9/26/2026,Pizza Place,Dining Out,-20.29,Expense
+9/30/2026,Savings Account Interest,Interest,6.44,Income
